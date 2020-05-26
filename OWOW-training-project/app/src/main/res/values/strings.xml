@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoftUni_Intents</string>
+    <string name="email_username">Email/ Username</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+</resources>
